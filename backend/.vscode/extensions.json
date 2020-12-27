@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+      // Pylance
+      "ms-python.vscode-pylance",
+      // Gitlence
+      "eamodio.gitlens",
+      // Prettier - Code formatter
+      "esbenp.prettier-vscode"
+    ]
+  }
