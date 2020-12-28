@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+      // Pylance
+      "ms-python.vscode-pylance",
+      // Gitlence
+      "eamodio.gitlens",
+    ]
+  }
